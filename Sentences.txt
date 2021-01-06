@@ -1,0 +1,8 @@
+sentences = {
+    "There is no coming to consciousness without pain.": "There is no comin to consiousnes without pain.",
+    "Hey! Mr. Tambourine Man, play a song for me,": "Hey! Mr. Tambourime Man, play a ssong for me,",
+    "I'm not sleepy and there is no place I'm going to.": "I'm not sleapy and tehre is no place I'm giong to.",
+    "How are you?": "Howw are yyu?",
+    "The secrets that you keep are ever ready":"The sekrets thatt you ceep are ever reedy",
+    "What if I say I will never surrender?":"What if I say I willi never surendar?",
+}
